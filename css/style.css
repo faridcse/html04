@@ -1,0 +1,51 @@
+a{
+	padding: 50px;
+}
+.header{
+	min-height: 100px;
+	background-color: #b9f7f7;
+}
+
+.container{
+	overflow: hidden;
+}
+
+.image{
+	min-height: 400px;
+	background-color: lightblue;
+	width: 40%;
+	float: left;
+}
+
+.about{
+	min-height: 400px;
+	background-color: powderblue;
+	width: 60%;
+	float: left;
+}
+
+.frontend{
+	min-height: 350px;
+	background-color: lightcoral;
+	width: 33.33%;
+	float: left;
+}
+
+.backend{
+	min-height: 350px;
+	background-color: lightgray;
+	width: 33.33%;
+	float: left;
+}
+
+.database{
+	min-height: 350px;
+	background-color: grey;
+	width: 33.33%;
+	float: left;
+}
+
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
